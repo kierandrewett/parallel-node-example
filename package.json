@@ -1,0 +1,11 @@
+{
+  "name": "parallel-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EnderDev/parallel-node-example",
+  "author": "Kieran <42723993+EnderDev@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
